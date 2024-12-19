@@ -4,7 +4,7 @@
     "header": {
         "type": "Header",
         "title": "",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
             "url": "/images/logo.png",
