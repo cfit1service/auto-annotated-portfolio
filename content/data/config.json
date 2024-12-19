@@ -12,18 +12,7 @@
             "caption": "",
             "elementId": ""
         },
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [],
         "headerVariant": "variant-c",
         "isSticky": false,
