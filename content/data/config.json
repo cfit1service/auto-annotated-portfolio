@@ -24,16 +24,7 @@
                 "elementId": ""
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "",
-                "altText": "GitHub",
-                "url": "/",
-                "icon": "github",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "headerVariant": "variant-c",
         "isSticky": false,
         "styles": {
