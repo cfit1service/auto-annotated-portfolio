@@ -3,7 +3,7 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
-        "title": "Your Brand",
+        "title": "",
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
